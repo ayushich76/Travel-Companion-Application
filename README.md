@@ -1,50 +1,17 @@
+# Travel Companion Application
 
-# TripApp React Project (Converted from TypeScript to JavaScript)
+A comprehensive **travel companion web application** that assists users in managing their trips efficiently while allowing them to **search for hotels and restaurants** to enhance their travel experience.
 
-This project is a **React + Vite + Tailwind CSS** application for managing trip-related workflows, now fully in **JavaScript** for easy maintenance and learning.
+## Features
 
-## 🚀 Features
+- Add, view, and manage your trips seamlessly.
+- Search for **hotels and restaurants** during trip planning.
+- Responsive and engaging user interface with React.
+- Robust backend using Node.js and Express for scalable APIs.
+- Data persistence with MongoDB for storing trip and search data.
 
-- React components without TypeScript
-- Clean, understandable human-written structure
-- Tailwind CSS for styling
-- Vite for fast development
+## Tech Stack
 
-## 🛠️ Installation
-
-1. Clone the repository or extract the zip.
-2. Navigate to the project folder:
-   ```
-   cd project
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Run locally:
-   ```
-   npm run dev
-   ```
-
-## 🛠️ Build for Production
-```
-npm run build
-```
-
-## 📂 Project Structure
-- `src/components/`: React components
-- `src/App.js`: Main App entry
-- `src/main.js`: Mounts App
-- `index.html`: Root HTML file
-- `tailwind.config.js`: Tailwind configuration
-- `vite.config.js`: Vite configuration
-
-## ✅ Notes
-- All `.tsx` and `.ts` files have been converted to `.js`.
-- All TypeScript-specific configuration files have been removed.
-- Variable and component names are clear and easy to follow.
-- Feel free to edit and extend as per your project needs.
-
----
-
-Made for your hackathon and learning journey. Enjoy building!
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
